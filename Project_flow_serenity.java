@@ -2,7 +2,12 @@ package Project_flow.Project_flow;
 
 public class Project_flow_serenity {
 
+
 	
+	Add serenity.properties  file at project level.
+	
+serenity.project.name=Serenity cucumber report by harsh
+
 	
 	
 	Pom.xml
